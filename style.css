@@ -1,0 +1,18 @@
+/*Style.css for exercies*/
+body {
+    color: rgb(59, 104, 59);
+    font-weight: 900;
+    font-style: italic;
+    padding: 20px;
+}
+/*Red text around password monkey...*/
+.highlight {
+    color:red;
+}
+
+table {
+    background-color:black;
+    color:white;
+    width:100%;
+}
+
